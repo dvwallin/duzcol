@@ -1,0 +1,15 @@
+[{
+  "Name": "duzcol",
+  "Description": "A color palette for simplicity",
+  "Tags": ["duzcol", "color", "colour", "micro"],
+  "Website": "https://github.com/dvwallin/duzcol/",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "Url": "https://github.com/dvwallin/duzcol/archive/v1.0.0.zip",
+      "Require": {
+        "micro": ">=1.1.3"
+      }
+    }
+  ]
+}]

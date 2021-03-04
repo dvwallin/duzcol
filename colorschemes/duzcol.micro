@@ -1,0 +1,12 @@
+
+color-link default "black,#FBF9F9"
+color-link comment "#CA705F"
+color-link identifier "black"
+color-link identifier.var "black"
+color-link constant "brightblack"
+color-link underlined "black,brightwhite"
+color-link line-number "white,brightwhite"
+color-link cursor-line "brightwhite"
+color-link current-line-number "brightblack"
+color-link color-column "white"
+color-link ignore "brightblack, white"
